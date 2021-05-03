@@ -12,6 +12,9 @@
 - Rick Battagline (battlelinegames)
 - Jairus Tanaka (JairusSW)
 
+## Joining
+To join, just make a new issue!
+
 ## Packages
 
 **Networking**
