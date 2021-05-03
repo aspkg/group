@@ -22,7 +22,7 @@ To join, just click this.
 1. Go to the main page and hit `📔 New`
 2. Click the 'import repository' link at the top
 3. Set the owner to `assemblyscript-community` and the package name
-4. Link the repository(s) `git remote set-url --add --push <remote> <repo-url>
+4. Link the repository(s) `git remote set-url --add --push <remote> <repo-url>`
 5. Push changes to both repositorys `git push -u <remote> main`
 ## Package
 
