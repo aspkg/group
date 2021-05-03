@@ -13,7 +13,9 @@
 - Jairus Tanaka (JairusSW)
 
 ## Joining
-To join, just make a new issue!
+To join, just click this.
+
+**[Join Group](https://github.com/assemblyscript-community/group/issues/new?title=Join+Request&body=Just+push+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.)**
 
 ## Packages
 
