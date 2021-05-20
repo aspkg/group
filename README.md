@@ -1,7 +1,7 @@
 # AssemblyScript-Community
 
 ## Goal
-@trusktr Can you write this? I think you know the idea best.
+AssemblyScript Community is a place where developers can freely share work and projects. It is a place to collaborate, talk, and work on projects.
 
 ## Members
 - Joe Pea (trusktr)
@@ -11,6 +11,7 @@
 - William Overton (williamoverton)
 - Rick Battagline (battlelinegames)
 - Jairus Tanaka (JairusSW)
+- Aaron Turner (Torch2424)
 
 ## Joining
 To join, just click this.
