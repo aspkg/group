@@ -10,6 +10,7 @@ AssemblyScript Community is a place where developers can freely share work and p
 - Sebastian Speitel (SebastianSpeitel)
 - William Overton (williamoverton)
 - Rick Battagline (battlelinegames)
+- DogWhich (irateAnimal)
 - Jairus Tanaka (JairusSW)
 - Aaron Turner (Torch2424)
 
@@ -39,3 +40,4 @@ To join, just click this.
 
 **Projects**
 - Ecmassembly
+- as-json
